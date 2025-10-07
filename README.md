@@ -4,9 +4,6 @@
 <h1 align="center">Hi 👋, I'm krishnapatel9</h1>
 <h3 align="center">Full Stack Developer | Bridging Web & Machine Learning | Always Learning 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapatel9&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapatel9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnapatel9" alt="krishnapatel9" /></a> </p>
 
 - 🔭 I’m currently working on [Customer Churn Prediction](https://github.com/krishnapatel9/CustomerChurnPrediction)
 
